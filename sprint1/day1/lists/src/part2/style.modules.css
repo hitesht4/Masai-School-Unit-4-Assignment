@@ -1,0 +1,39 @@
+.Flex {
+    display: flex;
+}
+
+button {
+    width: 200px;
+    padding: 7px;
+    font-size: 25px;
+    color: white;
+    border-radius: 25px;
+    margin: 12px 12px;
+    line-height: 30px;
+    border: -1px;
+}
+
+.One{
+    background-color: #1da6da;
+}
+.Two{
+    background-color: #7ca6a8;
+}
+.Three{
+background-color: #fcac25;
+}
+.Four{
+background-color: #b53638;
+}
+.Five{
+    background-color: #6ea43f;
+}
+.Six{
+background-color: #585592;
+}
+.Seven{
+    background-color: #ea4f91;
+}
+.Eight{
+    background-color: #8d6f4d;
+} 

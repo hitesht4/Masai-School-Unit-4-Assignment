@@ -1,0 +1,52 @@
+.Flex {
+    display: flex;
+}
+
+button {
+    width: 200px;
+    padding: 7px;
+    font-size: 25px;
+    color: white;
+    border-radius: 25px;
+    margin: 12px 12px;
+    text-decoration: Uppercase;
+    line-height: 30px;
+    border: -1px;
+}
+
+#One {
+    background-color: #1da6da;
+}
+
+#two {
+    background-color: #7ca6a8;
+}
+
+#three {
+    background-color: #fcac25;
+}
+
+#four {
+    background-color: #b53638;
+}
+
+#five {
+    background-color: #6ea43f;
+}
+
+#six {
+    background-color: #585592;
+}
+
+#seven {
+    background-color: #ea4f91;
+}
+
+#eight {
+    background-color: #8d6f4d;
+}
+
+.App {
+    width: 500px;
+    margin: 30px auto;
+}
