@@ -17,7 +17,8 @@ const Counter=()=>{
     return (
         <>
         <h1 className={views.Counter}>Counter</h1>
-        <h1 className={views.Counter}>{counter}</h1>
+        <h1 className={views.Counter}
+        style={{color:counter%2==1?"red":"green"}}>{counter}</h1>
         <button className={views.btn} onClick={()=>handleInc(1)}>Increase</button>
         <button className={views.btn} onClick={()=>handleDec(1)}>Decrease</button>
         <button className={views.btn} onClick ={()=>handleDouble()}>Double</button>

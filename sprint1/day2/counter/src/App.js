@@ -5,7 +5,7 @@ import Counter from './question1/Counter';
 function App() {
   return (
     <div className="App">
-<Counter/>
+     <Counter/>
     </div>
   );
 }
