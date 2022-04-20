@@ -1,0 +1,265 @@
+[
+{
+    "title":"Burger King",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rpziywbzmjq1tddmjuz5",
+    "category":"American, Fast Food",
+    "payements":{
+        "card":true,
+        "cash":false,
+       " wallet":true
+    },
+    "ratings":4,
+    "reviews":101,
+    "price":200
+},
+{
+    "title":"La Pino'Z Pizza",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/b18zl0s7xhbncpgymuuh",
+    "category":"Pizzas, Pastas",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":3.9,
+    "reviews":81 ,
+    "price":300 
+},
+{
+    "title":"The Healthy Stove",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/r6adbnlw4wlpkf4hql91",
+    "category":"North Indian, Healthy Food",
+    "payements":{
+        "card":false,
+        "cash":true,
+        "wallet":false
+    },
+    "ratings":4.3,
+    "reviews":91 ,
+    "price":500
+},
+{
+    "title":"LunchBox - Meals and Thalis",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ep7sw6b2xqoxk6smxfvg",
+    "category":"North Indian, Punjabi",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":4.0,
+    "reviews":91,
+    "price":200 
+},
+{
+    "title":"Hotel The Lotus Park",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/a54azjlhxwwhd44vyzzh",
+    "category":"North Indian, Chinese",
+    "payements":{
+        "card":false,
+        "cash":true,
+        "wallet":false
+    },
+    "ratings":3.6,
+    "reviews":91,
+    "price":315
+},
+{  
+    "title":"Om Food Center - Vastrapur Lake",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dp1ndjsha0ob5tepnsiy",
+    "category":"Indian, North Indian",
+    "payements":{
+        "card":true,
+        "cash":false,
+        "wallet":false
+    },
+    "ratings":4.3,
+    "reviews":91,
+    "price":400
+},
+    {
+    "title":"La Milano Pizzeria",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mjwvwwmy2rc8lejlvecz",
+    "category":"Pizzas, Pastas",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":2.7,
+    "reviews":91,
+    "price":200
+    },
+    {
+    "title":"Khichdi Etc",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ihcaozu0ljenwn6s1msn",
+    "category":"North Indian, Gujarati",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":3.2,
+    "reviews":911,
+    "price":350
+    },
+    {
+    "title":"McDonald's",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ksnzonfxa44ujdnseotd",
+    "category":"American, Fast Food",
+    "payements":{
+        "card":true,
+        "cash":false,
+        "wallet":false
+    },
+    "ratings":4.0,
+    "reviews":123,
+    "price":200 
+    },
+    {
+    "title":"Collegian Sandwich Center",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jfxo48cxmd2i3ysh2ul6",
+    "category":"Street Food",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":false
+    },
+    "ratings":4.3,
+    "reviews":91,
+    "price":190
+    },
+    {
+    "title":"Pickmeal",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/btuyxj8d21p8riyitxrn",
+    "category":"North Indian, Punjabi",
+    "payements":{
+        "card":false,
+        "cash":true,
+        "wallet":false
+    },
+    "ratings":2.7,
+    "reviews":1123,
+     "price":270  
+    },
+    {
+    "title":"KFC",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ycrm7vmbeq1b4evmjduu",
+    "category":"American, Fast Food",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":5,
+    "reviews":1020,
+    "price":450
+    },
+    {
+    "title":"The Mughal Treat",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/k16zojstomauwvf2titx",
+    "category":"Biryani, Mughlai",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":3.5,
+    "reviews":414 ,
+    "price":250 
+    },
+    {
+    "title":"Alpine Restaurant",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/h7yjrsxtmkrq8dwyuyz4",
+    "category":"Indian, Chinese",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":false
+    },
+    "ratings":4.3,
+    "reviews":91,
+    "price":200   
+    },
+    {
+    "title":"The Eatery By Sheraton",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/w5lvinsi6kajs5guse4u",
+    "category":"Indian, North Indian",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":false
+    },
+    "ratings":3.3,
+    "reviews":1451,
+    "price":350   
+    },
+    {
+    "title":"Urban Khichdi",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rvlovv49uh3bqyrzb9mr",
+    "category":"North Indian, Gujarati",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":false
+    },
+    "ratings":4.3,
+    "reviews":91,
+    "price":400  
+    },
+    {
+    "title":"Super Dawat Tawa Fry Centre",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ye0cuamd3narriqobmrq",
+    "category":"North Indian, Indian",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":4.0,
+    "reviews":222,
+    "price":120 
+    },
+
+
+
+
+    {
+    "title":"P. Vasu Food Court",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ponwwjqlh8wararhuo4p",
+    "category":"Indian, South Indian",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":3.5,
+    "reviews":811,
+    "price":250 
+    },
+    {
+    "title":"Banana Leaf",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gtllbzjaewjatjw8y3ca",
+    "category":"Indian, South Indian",
+    "payements":{
+        "card":true,
+        "cash":false,
+        "wallet":true
+    },
+    "ratings":4.6,
+    "reviews":911,
+    "price":300 
+    },
+    {
+    "title":"Sankalp",
+    "url":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/z0xmjbzrctyoars5j8be",
+    "category":"Indian, South Indian",
+    "payements":{
+        "card":true,
+        "cash":true,
+        "wallet":true
+    },
+    "ratings":4.0,
+    "reviews":315,
+    "price":200 
+    }]

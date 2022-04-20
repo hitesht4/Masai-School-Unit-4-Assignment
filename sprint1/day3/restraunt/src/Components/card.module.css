@@ -1,0 +1,75 @@
+.card{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:10px;
+}
+.card:hover{
+    transform: scale(1.2);
+    cursor:pointer;
+}
+.container{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(5,540px);
+    grid-gap: 20px;
+    width:90%;
+    margin:auto;
+    background-color: whitesmoke;
+    margin-top:50px;
+}
+img{
+    width:100%;
+    height:260px;
+}
+.card:hover{
+    transform: scale(1.2);
+    cursor:pointer;
+}
+.flex{
+    display:flex;
+    justify-content: space-evenly;
+};
+input{
+  padding:10px;
+}
+
+button{
+    color:white;
+    background-color: green;
+    /* padding:5px; */
+}
+.form{
+    padding:10px;
+    margin:20px;
+    display:flex;
+    margin:auto;
+}
+
+.Add{
+    display:flex;
+    margin:auto;
+}
+.sort{
+    padding:8px;
+    margin:5px;
+    background-color: black;
+}
+.sort:hover{
+    transform: scale(1.5);
+    cursor:pointer;
+}
+.sort_div{
+    /* float:left; */
+    display:flex;
+    justify-content: space-evenly;
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+     padding:20px;
+}
+.submit{
+    padding:10px;
+    margin:20px;
+    display:flex;
+    margin:auto;
+    margin-top:10px;
+    color:white;
+    background-color: black;
+}
