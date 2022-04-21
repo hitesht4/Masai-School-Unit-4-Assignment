@@ -1,0 +1,18 @@
+/* .flex{
+    display:flex;
+
+} */
+input{
+    padding:10px;
+
+}
+button{
+    padding:10px;
+    background-color: black;
+    color:white;
+    margin-left:10px;
+     width:100px;
+}
+.Add{
+    width:100px;
+}
