@@ -1,0 +1,12 @@
+input,button{
+    padding:10px;
+    margin:10px;
+}
+button{
+    background-color: black;
+    color:white;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
