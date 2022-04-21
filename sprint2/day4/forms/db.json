@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "Name": "Mahesh",
+      "Age": "23",
+      "Address": "Indore",
+      "Department": "Finance",
+      "Salary": "30000",
+      "Married": true,
+      "id": 1
+    },
+    {
+      "Name": "Deepak",
+      "Age": "31",
+      "Address": "Ujjain",
+      "Salary": "40000",
+      "id": 2
+    },
+    {
+      "Name": "Nikhil",
+      "Age": "30",
+      "Address": "Bhopal",
+      "Department": "Marketing",
+      "Salary": "50000",
+      "Married": true,
+      "id": 3
+    }
+  ]
+}
