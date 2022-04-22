@@ -80,16 +80,3 @@ const handleChange=(e)=>{
 export default Timer;
 
 
-
-//  useEffect(()=>{
-//   const id=setInterval(()=>{
-//     setTime(function(prev){
-//         if(prev===0){
-//           clearInterval(id);
-//           return prev;
-//         }
-//           return prev-1;
-//     });
-      
-//   },1000)
-//  },[]);

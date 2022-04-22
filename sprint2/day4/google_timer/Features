@@ -1,0 +1,8 @@
+stop/reset-->working in both stopwatch/timer;
+
+on Clicking the time in Timer it will ask for the Input;
+
+color of start/stop button will change on changing the timer;
+
+stopwatch will show time in millisrconds/seconds/minutes;
+
