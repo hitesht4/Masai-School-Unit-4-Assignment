@@ -1,0 +1,17 @@
+
+.submit{
+    justify-content: center;
+    width:100%;
+    text-align: center;
+}
+.btn{
+    padding:14px;
+    background-color: #f6425b;
+    width:180px;
+    border-radius: 15px;
+    border:none;
+    font-weight: bold;
+    color:white;
+}
+
+
