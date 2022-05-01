@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Task1",
+      "status": true
+    },
+    {
+      "id": 2,
+      "value": "Task2",
+      "status": true
+    },
+    {
+      "id": 3,
+      "value": "Task3",
+      "status": true
+    },
+    {
+      "id": 4,
+      "value": "Task4",
+      "status": true
+    },
+    {
+      "id": 5,
+      "value": "Task5",
+      "status": true
+    },
+    {
+      "id": 6,
+      "value": "Task6",
+      "status": true
+    },
+    {
+      "value": "task7",
+      "status": false,
+      "id": 7
+    },
+    {
+      "value": "task8",
+      "status": false,
+      "id": 8
+    },
+    {
+      "value": "task9",
+      "status": false,
+      "id": 9
+    },
+    {
+      "value": "task11",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
